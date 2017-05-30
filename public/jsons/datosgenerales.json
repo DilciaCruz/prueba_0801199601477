@@ -1,0 +1,11 @@
+{
+  "nombre":"Dilcia",
+  "apellido":"Cruz",
+  "direccion":{
+      "ciudad":"tegucigalpa",
+      "calle": 5,
+      "bloque":5
+    },
+  "identidad":
+      {"0801199601477":"Manuel","correo":"as@as.com"}
+}
